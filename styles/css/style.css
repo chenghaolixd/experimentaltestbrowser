@@ -845,7 +845,7 @@ body {
   height: 40px;
 }
 #main-container > .inner > .app-left .header .button {
-  min-width: 50px;
+  min-width: 40px;
   height: 40px;
   line-height: 42px;
   text-align: center;
@@ -917,15 +917,15 @@ body {
   line-height: 80px;
   text-align: center;
   font-size: 15px;
-  background-color: #ddd;
+  background-color: #f2f2f2;
   border: 1px solid #bbb;
-  color: #f1f1f1;
+  color: #000;
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
   box-shadow: 0px 0px 6px 1px rgba(0, 0, 0, 0.2);
 }
 #main-container > .inner > .app-left .switcher .reveal-container .button:hover {
-  background-color: #ccc;
+  background-color: #f1f1f1;
 }
 #main-container > .inner > .app-left .switcher .scroll {
   position: absolute;
@@ -935,7 +935,7 @@ body {
   border: 1px solid #bbb;
   border-left: none;
   z-index: 100;
-  background-color: #f2f2f2;
+  background-color: #fff;
   left: 0;
   transition: left 0.5s;
 }
@@ -1181,7 +1181,7 @@ body {
 #main-container > .inner > .app-right .tab .bar-buttons .button.disabled {
   cursor: default;
   background-color: #FFF;
-  color: #999;
+  color: #99#main-container > .inner > .app-left .switcher .reveal-container .button9;
 }
 #main-container > .inner > .app-right .tab .bar-buttons .button.button-refresh,
 #main-container > .inner > .app-right .tab .bar-buttons .button.button-stop {
