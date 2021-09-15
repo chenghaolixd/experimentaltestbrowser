@@ -1238,7 +1238,7 @@ body {
   display: flex;
   flex-direction: row;
   padding: 5px;
-  background-color: #FFF;
+  background-color: #F1F1F1;
   border-bottom: 1px solid #ccc;
   min-height: 51px;
 }
